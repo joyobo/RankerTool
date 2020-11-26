@@ -1,0 +1,17 @@
+.entrycontent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.crossicon{
+    float:left;
+}
+
+.arrows {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    float:right;
+}

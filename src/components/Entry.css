@@ -1,0 +1,7 @@
+.inputentry {
+    height: 40px;
+    width: 60vw;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
