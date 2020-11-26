@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RankerTool/static/css/main.e7487ee1.chunk.css",
+    "main.js": "/RankerTool/static/js/main.65cba2d5.chunk.js",
+    "main.js.map": "/RankerTool/static/js/main.65cba2d5.chunk.js.map",
+    "runtime-main.js": "/RankerTool/static/js/runtime-main.24d46312.js",
+    "runtime-main.js.map": "/RankerTool/static/js/runtime-main.24d46312.js.map",
+    "static/css/2.fa5478ba.chunk.css": "/RankerTool/static/css/2.fa5478ba.chunk.css",
+    "static/js/2.8fc4a299.chunk.js": "/RankerTool/static/js/2.8fc4a299.chunk.js",
+    "static/js/2.8fc4a299.chunk.js.map": "/RankerTool/static/js/2.8fc4a299.chunk.js.map",
+    "static/js/3.db25a43e.chunk.js": "/RankerTool/static/js/3.db25a43e.chunk.js",
+    "static/js/3.db25a43e.chunk.js.map": "/RankerTool/static/js/3.db25a43e.chunk.js.map",
+    "index.html": "/RankerTool/index.html",
+    "static/css/2.fa5478ba.chunk.css.map": "/RankerTool/static/css/2.fa5478ba.chunk.css.map",
+    "static/css/main.e7487ee1.chunk.css.map": "/RankerTool/static/css/main.e7487ee1.chunk.css.map",
+    "static/js/2.8fc4a299.chunk.js.LICENSE.txt": "/RankerTool/static/js/2.8fc4a299.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/RankerTool/static/media/icons-20.cde033c5.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d46312.js",
+    "static/css/2.fa5478ba.chunk.css",
+    "static/js/2.8fc4a299.chunk.js",
+    "static/css/main.e7487ee1.chunk.css",
+    "static/js/main.65cba2d5.chunk.js"
+  ]
+}
